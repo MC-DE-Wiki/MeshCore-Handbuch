@@ -1,6 +1,7 @@
-Übersetzungen und Ergänzungen für die Offline- und Off-Grid-Messaging-Plattform für sichere Kommunikation.
+## Wir sind umgezogen!
 
-## [Zum MeshCore-Handbuch](https://github.com/MC-DE-Wiki/MeshCore-Handbuch/wiki)
+Alle Beiträge und noch weitere findest du nun auf unserer [neuen Webseite](https://meshcore-de.net/) im [MeshCore Handbuch](https://meshcore-de.net/meshcore-handbuch/).
+
 
 
 
